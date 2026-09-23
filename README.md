@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner Today I Learned">
+</p>
+
 # 📚 Today I Learned
 
 Repositório criado para registrar os conhecimentos que adquiro durante meus estudos de tecnologia e desenvolvimento.
