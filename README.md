@@ -20,8 +20,8 @@ A ideia é documentar conceitos, exemplos e descobertas do dia a dia, acompanhan
 
 ## 📂 Áreas de estudo
 
-- 🌐 **HTML** — Estrutura de páginas, tags e semântica
-- 🎨 **CSS** — Estilização, seletores, Box Model, Flexbox e responsividade
+- 🌐 [**HTML**](./html) — Estrutura de páginas, tags e semântica
+- 🎨 [**CSS**](./css) — Estilização, seletores, Box Model, Flexbox e responsividade
 - ⚡ **JavaScript** — Fundamentos da linguagem e interação com páginas
 - 🧠 **Lógica de Programação** — Variáveis, condições, loops e algoritmos
 - 🐍 **Python** — Fundamentos, exercícios e pequenos projetos
