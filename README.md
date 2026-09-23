@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner Today I Learned">
+  <img src="./assets/banner.png" alt="Banner Today I Learned" width="100%">
 </p>
 
 # 📚 Today I Learned
 
-Repositório criado para registrar os conhecimentos que adquiro durante meus estudos de tecnologia e desenvolvimento.
+Este repositório contém anotações sobre os conhecimentos que adquiro durante meus estudos de tecnologia.
 
-A ideia é documentar conceitos, exemplos e descobertas do dia a dia, acompanhando minha evolução e criando um material de consulta para o futuro.
+O objetivo é registrar minha evolução, praticar o que estou aprendendo e criar um material de consulta para o futuro.
 
 ---
 
@@ -22,6 +22,16 @@ A ideia é documentar conceitos, exemplos e descobertas do dia a dia, acompanhan
 
 ---
 
+## 📌 Sobre este repositório
+
+O **Today I Learned** funciona como meu diário de estudos em tecnologia.
+
+Aqui registro conceitos, exemplos, comandos, exercícios e soluções que considero importantes durante meu aprendizado.
+
+O conteúdo será atualizado conforme avanço nos estudos e conheço novas ferramentas e tecnologias.
+
+---
+
 ## 📂 Áreas de estudo
 
 - 🌐 [**HTML**](./html) — Estrutura de páginas, tags e semântica
@@ -34,33 +44,34 @@ A ideia é documentar conceitos, exemplos e descobertas do dia a dia, acompanhan
 
 ---
 
-## 📝 Como registro meus aprendizados
+## 📝 O que registro
 
-Neste repositório registro conteúdos que aprendo durante meus estudos, como:
+Neste repositório posso registrar:
 
-- Conceitos importantes
-- Exemplos de código
-- Comandos úteis
-- Exercícios realizados
-- Dúvidas que consegui resolver
-- Observações para consultas futuras
-- Boas práticas que vou aprendendo
+- 📖 Conceitos importantes
+- 💻 Exemplos de código
+- 🛠️ Comandos úteis
+- 🧩 Exercícios realizados
+- 🔎 Problemas e soluções
+- 💡 Descobertas durante os estudos
+- 📌 Observações para consultas futuras
+- ✅ Boas práticas que vou aprendendo
 
 ---
 
 ## 🎯 Objetivo
 
-Utilizar este repositório como um diário de aprendizado, acompanhando minha evolução nos estudos e consolidando os conhecimentos adquiridos ao longo da minha formação em tecnologia.
+Utilizar este espaço para acompanhar minha evolução nos estudos de tecnologia e consolidar os conhecimentos adquiridos através da prática e da documentação.
 
-Além de servir como material de consulta, o repositório também permite acompanhar minha evolução prática com diferentes tecnologias.
+Além de servir como material de consulta pessoal, este repositório também representa parte da minha jornada de aprendizado.
 
 ---
 
-## 📈 Evolução
+## 📈 Evolução contínua
 
-Este repositório será atualizado continuamente conforme avanço nos estudos e aprendo novos conceitos, ferramentas e tecnologias.
+Este repositório está em constante desenvolvimento.
 
-Cada novo conteúdo representa uma etapa do meu aprendizado.
+Novos conteúdos serão adicionados naturalmente conforme avanço nos estudos, sem a necessidade de seguir uma ordem específica.
 
 ---
 
@@ -69,3 +80,7 @@ Cada novo conteúdo representa uma etapa do meu aprendizado.
 📌 **Início dos registros:** Setembro de 2026
 
 ---
+
+<p align="center">
+  <b>📚 Estudar • 💻 Praticar • 📝 Registrar • 🚀 Evoluir</b>
+</p>
