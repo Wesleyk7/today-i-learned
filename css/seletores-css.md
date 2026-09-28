@@ -25,3 +25,4 @@ Nesse exemplo, `footer p` seleciona os elementos `<p>` que estão dentro do `<fo
     <p>© 2026 Wesley - Meu portfólio</p>
 </footer>
 ```
+
